@@ -80,3 +80,4 @@ CREATE TABLE SILVER.erp_ex_cat_g1v2 (
     ssubcat NVARCHAR(50),
     maintenance NVARCHAR(50)
 );
+GO
