@@ -78,3 +78,4 @@ cat nvarchar(50),
 ssubcat nvarchar(50),
 maintenance nvarchar(50),
 )
+GO
