@@ -63,4 +63,4 @@ Hi! I'm Tamer Salah, a Data Engineer with a strong passion for data processing, 
 Currently, I'm  continuously improving my data engineering skills. Feel free to check out my projects and connect with me! 🚀  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamer-salah-1491978ta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tamer-salah-1491978ta)
