@@ -56,9 +56,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-## 🌟 About Me
-
-## About Me  
+## 🌟 About Me 
 
 Hi! I'm Tamer Salah, a Data Engineer with a strong passion for data processing, ETL development, and machine learning. I specialize in data wrangling, pipeline optimization, and predictive modeling.  
 
