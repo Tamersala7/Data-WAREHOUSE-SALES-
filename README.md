@@ -59,8 +59,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 For more details, refer to [docs/requirements.md](docs/requirements.md).
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+## About Me  
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Hi! I'm Tamer Salah, a Data Engineer with a strong passion for data processing, ETL development, and machine learning. I specialize in data wrangling, pipeline optimization, and predictive modeling.  
+
+Currently, I'm  continuously improving my data engineering skills. Feel free to check out my projects and connect with me! 🚀  
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamer-salah-1491978ta)
